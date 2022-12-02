@@ -42,7 +42,7 @@ I'm YData's Data Science Tech Lead.
 
 [![](https://github-readme-stats.vercel.app/api?username=vascoalramos&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/vascoalramos)
 
-Feel free to get in touch! You can reach us at [Hello](hello@ydata.ai) or [Developers](developers@ydata.ai) or join us at our [Discord Server](https://discord.gg/mw7xjJ7b7s)
+Feel free to get in touch! You can reach us at [Hello](mailto:hello@ydata.ai) or [Developers](mailto:developers@ydata.ai) or join us at our [Discord Server](https://discord.gg/mw7xjJ7b7s)
 
 ![footer:dcai](https://assets.ydata.ai/dcai/footer.png)
 
