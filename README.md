@@ -38,7 +38,7 @@
 <a href="https://datacentricai.community"><img height="25" src="https://assets.ydata.ai/dcai/logo.png"/></a>
 <a href="https://ydata.ai"><img height="25" src="https://assets.ydata.ai/logo_notext_nbg.png"/></a>
 
-I'm YData's Data Science Tech Lead.
+I'm an Infrastructure Engineer at YData.
 
 [![](https://github-readme-stats.vercel.app/api?username=vascoalramos&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/vascoalramos)
 
